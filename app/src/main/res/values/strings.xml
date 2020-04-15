@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manual Configuration Change Example</string>
+    <string name="t1">Name</string>
+    <string name="t2">Email</string>
+</resources>
